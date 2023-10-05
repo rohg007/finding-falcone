@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Finding Falcone</string>
+    <string name="select_a_vehicle">Select a vehicle</string>
+    <string name="select_vehicle">Select vehicle</string>
+    <string name="please_assign_vehicles">Please assign vehicles to exactly 4 planets</string>
+    <string name="find_falcone">Find falcone</string>
+    <string name="add_vehicle">Add vehicle</string>
+    <string name="change_vehicle">Change vehicle</string>
+    <string name="unassign">Unassign</string>
+    <string name="assigned_vehicle">Assigned: %s</string>
+    <string name="time_taken">Time taken</string>
+    <string name="success_message">Success! Queen Falcone is found on planet: %s</string>
+    <string name="error_message">Sorry! Queen Falcone could not be found</string>
+    <string name="time_taken_with_value">Time taken: %s</string>
+    <string name="reset">Reset</string>
+</resources>
